@@ -1,0 +1,32 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrinkAI/Brinkaiweb.wiki.git"
+  },
+  "keywords": [
+    "https://ramoss@bitbucket.org/ramoss/brinkai-project.git"
+  ],
+  "author": "rampratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrinkAI/Brinkaiweb.wiki/issues"
+  },
+  "homepage": "https://github.com/BrinkAI/Brinkaiweb.wiki#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}

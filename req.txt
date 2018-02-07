@@ -1,0 +1,15 @@
+sudo npm install -g babel
+sudo npm install -g babel-cli
+npm init
+https://ramoss@bitbucket.org/ramoss/brinkai-project.git
+npm install webpack --save
+npm install webpack-dev-server --save
+npm install react --save
+npm install react-dom --save
+npm install babel-core --save
+npm install babel-loader--save
+# npm install baber-preset-react
+npm install --save babel-preset-react
+
+npm install baber-preset-es2016
+
